@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "./images/beanie.jpeg"
+    },
+    {
+      "id": 2,
+      "image": "./images/candles.jpeg"
+    },
+    {
+      "id": 3,
+      "image": "./images/candy-apples.jpeg"
+    },
+    {
+      "id": 4,
+      "image": "./images/candy-corn.png"
+    },
+    {
+      "id": 5,
+      "image": "./images/football.jpeg"
+    },
+    {
+      "id": 6,
+      "image": "./images/heart.jpeg"
+    },
+    {
+      "id": 7,
+      "image": "./images/owl.jpeg"
+    },
+    {
+      "id": 8,
+      "image": "./images/pie.jpeg"
+    },
+    {
+      "id": 9,
+      "image": "./images/psl.png"
+    },
+    {
+      "id": 10,
+      "image": "./images/pumpkins.jpeg"
+    },
+    {
+      "id": 11,
+      "image": "./images/scarf.jpeg"
+    },
+    {
+      "id": 12,
+      "image": "./images/wreath.jpeg"
+    }
+  ]
