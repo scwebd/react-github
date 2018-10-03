@@ -14,6 +14,6 @@ body, html, #root {
 }
 
 .jumbotron {
-  background: url("/images/background.jpeg");
+  background: url("./background.jpeg");
   background-size: cover;
 }
