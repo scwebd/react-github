@@ -9,7 +9,7 @@ body, html, #root {
 }
 
 .container-fluid {
-  background: url("/images/background2.jpg");
+  background: url("./background2.jpg");
   background-size: cover;
 }
 
