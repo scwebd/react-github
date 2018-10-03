@@ -2,7 +2,7 @@
   "name": "fall-clicky",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jamiedehaan.github.io/fall-clicky",
+  "homepage": "https://scwebd.github.io/react-github",
   "dependencies": {
     "gh-pages": "^2.0.0",
     "react": "^16.5.2",
